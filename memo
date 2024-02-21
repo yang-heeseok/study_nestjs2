@@ -1,0 +1,12 @@
+
+[pipe]
+npm install calss-validator class-transformer --save
+
+
+[type ORM]
+npm install pg typeorm @nestjs/typeorm --save
+pg : Postgres module
+typeorm : TypeORM module
+@nestjs/typeorm : NestJS TypeORM module
+
+document : https://docs.nestjs.com/techniques/database
